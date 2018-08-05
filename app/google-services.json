@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "554772227002",
+    "firebase_url": "https://cadethandbook-f3c5c.firebaseio.com",
+    "project_id": "cadethandbook-f3c5c",
+    "storage_bucket": "cadethandbook-f3c5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554772227002:android:97c16b8ecd5124cb",
+        "android_client_info": {
+          "package_name": "ru.protasovdev.cadethandbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "554772227002-n5elq2ogh4qi7tnt0ptqn2tse93fo0pt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ru.protasovdev.cadethandbook",
+            "certificate_hash": "acb0841fd01244f40dafba453e32c13da82da73d"
+          }
+        },
+        {
+          "client_id": "554772227002-bcr9tt40fppha7s5henb301u65p7eklc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZqd-pjMC6mn2tKUSR21Slw8LkyeqHgEk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "554772227002-bcr9tt40fppha7s5henb301u65p7eklc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
