@@ -1,4 +1,4 @@
-package ru.protasovdev.cadethandbook.common;
+package ru.protasovdev.cadethandbook.news.model;
 
 import pl.droidsonroids.jspoon.annotation.Selector;
 

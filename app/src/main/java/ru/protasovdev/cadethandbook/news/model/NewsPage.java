@@ -1,4 +1,4 @@
-package ru.protasovdev.cadethandbook.common;
+package ru.protasovdev.cadethandbook.news.model;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Справочник курсанта ЮФУ</string>
+    <string name="news">Новости</string>
+    <string name="url_site_uvc">http://uvc.tti.sfedu.ru/</string>
+    <string name="documents">Документы</string>
+    <string name="cheat_sheets">Шпаргалки</string>
+    <string name="settings">Настройки</string>
+    <string name="map">Карта</string>
 </resources>

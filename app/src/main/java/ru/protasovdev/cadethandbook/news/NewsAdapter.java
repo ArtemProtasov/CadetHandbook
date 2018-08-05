@@ -13,8 +13,8 @@ import butterknife.BindView;
 import butterknife.ButterKnife;
 import ru.protasovdev.cadethandbook.R;
 import ru.protasovdev.cadethandbook.common.GlideApp;
-import ru.protasovdev.cadethandbook.common.NewsPage;
-import ru.protasovdev.cadethandbook.common.Post;
+import ru.protasovdev.cadethandbook.news.model.NewsPage;
+import ru.protasovdev.cadethandbook.news.model.Post;
 
 public class NewsAdapter extends RecyclerView.Adapter<NewsAdapter.NewsViewHolder> {
 

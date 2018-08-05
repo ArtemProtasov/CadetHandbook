@@ -4,13 +4,12 @@ import android.arch.lifecycle.LiveData;
 import android.arch.lifecycle.MutableLiveData;
 import android.util.Log;
 
-import pl.droidsonroids.jspoon.Jspoon;
 import pl.droidsonroids.retrofit2.JspoonConverterFactory;
 import retrofit2.Call;
 import retrofit2.Callback;
 import retrofit2.Response;
 import retrofit2.Retrofit;
-import retrofit2.converter.gson.GsonConverterFactory;
+import ru.protasovdev.cadethandbook.news.model.NewsPage;
 
 public class Repository {
     private static final String BASE_URL = "http://uvc.tti.sfedu.ru";

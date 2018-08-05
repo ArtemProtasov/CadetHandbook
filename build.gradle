@@ -5,6 +5,7 @@ buildscript {
     repositories {
         google()
         jcenter()
+        mavenCentral()
     }
     dependencies {
         classpath 'com.android.tools.build:gradle:3.1.3'
@@ -12,6 +13,7 @@ buildscript {
 
         // NOTE: Do not place your application dependencies here; they belong
         // in the individual module build.gradle files
+        classpath 'com.google.gms:google-services:3.2.0'
     }
 }
 
@@ -24,4 +26,18 @@ allprojects {
 
 task clean(type: Delete) {
     delete rootProject.buildDir
+}
+
+ext {
+    retrofitVersion = '2.4.0'
+    glideVersion = '4.7.1'
+    butterKnifeVersion = '8.8.1'
+    firebaseAuthVersion = '16.0.2'
+    firebaseUiAuthVersion = '4.0.0'
+    facebookLoginVersion = '4.35.0'
+    appCompatVersion = '27.1.1'
+    jsoupVersion = '1.11.3'
+    lifecycleVersion = '1.1.1'
+    jspoonVersion = '1.3.1'
+    roundedImageViewVersion = '2.3.0'
 }
